@@ -16,7 +16,7 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 Here are some of the projects I've worked on:
 
 - **[Bright](https://github.com/zenbright/Bright_BE.git)**
-
+  -_Backend Leader_
   - Description: Project management app
   - Technologies Used:
     <p align="center">
@@ -26,6 +26,7 @@ Here are some of the projects I've worked on:
     </p>
 
 - **[NCT Web Platform](https://github.com/RmitNeoculturetechclub/NCT_LandingPage_VPS)**
+  -_Project Manager_
   - Description: A centralized hub for club activities for Neo Culture Tech Club at RMIT
   - Technologies Used:
     <p align="center">
@@ -36,6 +37,7 @@ Here are some of the projects I've worked on:
 - **[DayDay](https://github.com/lluciiiia/DayDay)**
 
   - Description: Diary app
+  -_Individual Project_
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
@@ -44,6 +46,7 @@ Here are some of the projects I've worked on:
     </p>
 
 - **[Xiang Qi](https://github.com/lluciiiia/DayDay)**
+  -_Team Leader_
   - Description: Chinese chess game
   - Technologies Used:
     <p align="center">
