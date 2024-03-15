@@ -56,7 +56,7 @@ Here are some of the projects I've worked on:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,docker,c,cpp,java,python,javascript,typescript,html,css,react,nodejs,expressjs,mysql,mongodb,postgresql,rabbitmq,firebase,bash,linux,aws,googlecloud,spring" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,docker,c,cpp,java,python,javascript,typescript,html,css,react,nodejs,expressjs,mysql,mongodb,postgresql,rabbitmq,firebase,bash,linux,aws,googlecloud,spring,ai" />
   </a>
 </p>
 
