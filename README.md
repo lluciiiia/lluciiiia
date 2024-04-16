@@ -6,7 +6,7 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 ## Education 📚
 
-- **Bachelor of Software Engineering**
+- **Bachelor of Software Engineering (Honour degree)**
   - _RMIT University (Royal Melbourne Institute of Technology)_
   - _Minor in Artificial Intelligence and Machine Learning_
   - _Expected Graduation: [Jan, 2026]_
