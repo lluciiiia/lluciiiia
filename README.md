@@ -81,6 +81,20 @@ Here are some of the projects I've worked on:
       </a>
     </p>
 
+## Highlighted Coureworks 👩🏻‍🎓
+
+- **[Model Development For Diabetes Prediction](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)**
+  - Description: COSC2753 Machine Learning - Individual Assignment
+  - Technologies Used: Python
+
+- **[Insurance Claim Management System](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)**
+  - Description: COSC2440 Further Programming - Individual Assignment
+  - Technologies Used: Java
+
+- **[Motorbike Rental Application](https://github.com/lluciiiia/SEDfinal.git)**
+  - Description: EEET2482 Software Engineering Design - Group (4) Assignment
+  - Technologies Used: C++
+
 ## Skills 💻
 
 <p align="center">
