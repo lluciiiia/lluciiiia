@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
 
 - **[Genie](https://github.com/vhpx/genie.git)**
 
-  - Role: Fullstack engineer
+  - Role: Fullstack Engineer (Specializing in Prompt Engineering and Backend Development)
   - Description: AI-powered test generation, built by a team of 4, for Supabase Open Source Hackathon 2024
   - Technologies Used:
     <p align="center">
