@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
 
 - **[Genie](https://github.com/vhpx/genie.git)**
 
-  - Role: Fullstack Engineer (Specializing in Prompt Engineering and Backend Development)
+  - Role: Fullstack Engineer - Specializing in Prompt Engineering and Backend Development
   - Description: AI-powered test generation, built by a team of 4, for Supabase Open Source Hackathon 2024
   - Technologies Used:
     <p align="center">
@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 
 - **[NCT Hub](https://github.com/rmit-nct/hub.git)**
 
-  - Role: Leader - overseeing NCT Hub's vision and providing code reviews and feedback
+  - Role: Leader - Overseeing NCT Hub's vision and providing code reviews and feedback
   - Description: Extension of the NCT Web Platform with more advanced features for both general members and club's core members
   - Technologies Used:
     <p align="center">
