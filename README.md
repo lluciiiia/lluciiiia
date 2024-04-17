@@ -55,7 +55,7 @@ Here are some of the projects I've worked on:
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,expressjs,react,javascript,mongodb" />
+        <img src="https://skillicons.dev/icons?i=git,docker,expressjs,react,html,css,javascript,mongodb" />
       </a>
     </p>
     
