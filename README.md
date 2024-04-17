@@ -81,7 +81,7 @@ Here are some of the projects I've worked on:
       </a>
     </p>
 
-## Highlighted Coureworks 👩🏻‍🎓
+## Highlighted Courseworks 👩🏻‍🎓
 
 - **[Model Development For Diabetes Prediction](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)**
   - Description: COSC2753 Machine Learning - Individual Assignment
