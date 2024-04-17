@@ -15,6 +15,28 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 Here are some of the projects I've worked on:
 
+- **[Genie](https://github.com/vhpx/genie.git)**
+
+  - Role: Fullstack engineer
+  - Description: AI-powered test generation, built by a team of 4, for Supabase Open Source Hackathon 2024
+  - Technologies Used:
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,docker,supabase,nextjs,react,typescript" />
+      </a>
+    </p>
+
+- **[NCT Hub](https://github.com/rmit-nct/hub.git)**
+
+  - Role: Leader - overseeing NCT Hub's vision and providing code reviews and feedback
+  - Description: Extension of the NCT Web Platform with more advanced features for both general members and club's core members
+  - Technologies Used:
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,docker,supabase,nextjs,react,typescript" />
+      </a>
+    </p>
+
 - **[Bright](https://github.com/zenbright/Bright_BE.git)**
 
   - Role: Backend Leader
@@ -36,6 +58,7 @@ Here are some of the projects I've worked on:
         <img src="https://skillicons.dev/icons?i=git,docker,expressjs,react,javascript,mongodb" />
       </a>
     </p>
+    
 - **[DayDay](https://github.com/lluciiiia/DayDay)**
 
   - Individual Project
