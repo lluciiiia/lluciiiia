@@ -90,6 +90,10 @@ Here are some of the projects I've worked on:
 - **[Insurance Claim Management System](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)**
   - Description: COSC2440 Further Programming - Individual Assignment
   - Technologies Used: Java
+ 
+- **[Embedded System Development Using UART Drivers](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A1.git)**
+  - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Individual Assessment
+  - Technologies Used: C, Makefile, Assembly
 
 - **[Motorbike Rental Application](https://github.com/lluciiiia/SEDfinal.git)**
   - Description: EEET2482 Software Engineering Design - Group (4) Assignment
