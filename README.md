@@ -15,7 +15,7 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 Here are some of the projects I've worked on:
 
-- **[Genie](https://github.com/vhpx/genie.git)**
+- **[Genie](https://github.com/genie-hq/genie)**
 
   - Role: Fullstack Engineer - Specializing in Prompt Engineering and Backend Development
   - Description: AI-powered test generation, built by a team of 4, for Supabase Open Source Hackathon 2024
