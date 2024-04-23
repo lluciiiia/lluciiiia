@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,supabase,nextjs,react,typescript" />
+        <img src="https://skillicons.dev/icons?i=git,docker,supabase,nextjs,react,typescript,ai" />
       </a>
     </p>
 
