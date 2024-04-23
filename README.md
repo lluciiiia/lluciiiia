@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire to leverage technology for meaningful impact in society. With a solid foundation of skills, a penchant for innovation, and a commitment to positive change, I am eager to advance my career in the field of software engineering.
+I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire to leverage technology for meaningful impact in society with a solid foundation of skills, a penchant for innovation, and a commitment to positive change.
 
 ## Education 📚
 
