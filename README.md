@@ -86,7 +86,7 @@ Here are some of the projects I've worked on:
 
 - **[Insurance Claim Management System - Extension](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)**
   - Description: COSC2440 Further Programming - Group (4) Assignment
-  - Technologies Used: Java, Maven, JavaFX, JAR ,JUnit, PostgreSQL with Supabase, JDBC
+  - Technologies Used: Java, Maven, JavaFX, JAR, JUnit, PostgreSQL with Supabase, JDBC
 
 - **[Bare Metal Operating System (OS) Development](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A2.git)**
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Individual Assessment
