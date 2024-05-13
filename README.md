@@ -86,7 +86,7 @@ Here are some of the projects I've worked on:
 - **[Model Development For Furniture Detection and Classification](https://github.com/Mudoker/furniture-recognition-model.git)**
   - Description: COSC2753 Machine Learning - Group (4) Assignment
   - Technologies Used: Python
-  - 
+  
 - **[Insurance Claim Management System - Extension](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)**
   - Description: COSC2440 Further Programming - Group (4) Assignment
   - Technologies Used: Java, Maven, JavaFX, JAR, JUnit, PostgreSQL with Supabase, JDBC
