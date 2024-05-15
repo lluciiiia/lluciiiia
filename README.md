@@ -83,31 +83,31 @@ Here are some of the projects I've worked on:
 
 ## Highlighted Courseworks 👩🏻‍🎓
 
-- **[Model Development For Furniture Detection and Classification](https://github.com/Mudoker/furniture-recognition-model.git)**
+- **[Model Development For Furniture Detection and Classification](https://github.com/Mudoker/furniture-recognition-model.git)** [May 2024]
   - Description: COSC2753 Machine Learning - Group (4) Assignment
   - Technologies Used: Python
   
-- **[Insurance Claim Management System - Extension](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)**
+- **[Insurance Claim Management System - Extension](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)** [May 2024]
   - Description: COSC2440 Further Programming - Group (4) Assignment
   - Technologies Used: Java, Maven, JavaFX, JAR, JUnit, PostgreSQL with Supabase, JDBC
 
-- **[Bare Metal Operating System (OS) Development](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A2.git)**
+- **[Bare Metal Operating System (OS) Development](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A2.git)** [Apr 2024]
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Individual Assessment
   - Technologies Used: C, Makefile, Assembly
 
-- **[Model Development For Diabetes Prediction](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)**
+- **[Model Development For Diabetes Prediction](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)** [Apr 2024]
   - Description: COSC2753 Machine Learning - Individual Assignment
   - Technologies Used: Python
 
-- **[Insurance Claim Management System](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)**
+- **[Insurance Claim Management System](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)** [Apr 2024]
   - Description: COSC2440 Further Programming - Individual Assignment
   - Technologies Used: Java
  
-- **[Embedded System Development Using UART Drivers](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A1.git)**
+- **[Embedded System Development Using UART Drivers](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A1.git)** [Mar 2024]
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Individual Assessment
   - Technologies Used: C, Makefile, Assembly
 
-- **[Motorbike Rental Application](https://github.com/lluciiiia/SEDfinal.git)**
+- **[Motorbike Rental Application](https://github.com/lluciiiia/SEDfinal.git)** [Sep 2023]
   - Description: EEET2482 Software Engineering Design - Group (4) Assignment
   - Technologies Used: C++
 
