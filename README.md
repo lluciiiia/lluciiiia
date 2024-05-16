@@ -87,7 +87,7 @@ Here are some of the projects I've worked on:
   - Description: COSC2753 Machine Learning - Group (4) Assignment
   - Technologies Used: Python
   
-- **[Insurance Claim Management System - Extension](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)** [May 2024]
+- **[Insurance Claim Management System (v2)](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)** [May 2024]
   - Description: COSC2440 Further Programming - Group (4) Assignment
   - Technologies Used: Java, Maven, JavaFX, JAR, JUnit, PostgreSQL with Supabase, JDBC
 
@@ -99,7 +99,7 @@ Here are some of the projects I've worked on:
   - Description: COSC2753 Machine Learning - Individual Assignment
   - Technologies Used: Python
 
-- **[Insurance Claim Management System](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)** [Apr 2024]
+- **[Insurance Claim Management System (v1)](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)** [Apr 2024]
   - Description: COSC2440 Further Programming - Individual Assignment
   - Technologies Used: Java
  
