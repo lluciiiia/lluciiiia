@@ -83,7 +83,7 @@ Here are some of the projects I've worked on:
 
 ## Highlighted Courseworks 👩🏻‍🎓
 
-- **[Delivery Application](https://github.com/lluciiiia/COSC2440_Further_Programming_Lab_Test.git)** [May 2024]
+- **[Delivery Application - API Design](https://github.com/lluciiiia/COSC2440_Further_Programming_Lab_Test.git)** [May 2024]
   - Description: COSC2440 Further Programming - Individual Test
   - Technologies Used: Java, Maven, JAR, JUnit, PostgreSQL with Supabase, JDBC
 
