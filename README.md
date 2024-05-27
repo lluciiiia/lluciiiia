@@ -83,6 +83,10 @@ Here are some of the projects I've worked on:
 
 ## Highlighted Courseworks 👩🏻‍🎓
 
+- **[Alien Shooting Game for Bare Metal OS](https://github.com/Mudoker/alien-shooting.git)** [May 2024]
+  - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Group (4) Assignment
+  - Technologies Used: C, Makefile, Assembly
+
 - **[Delivery Application - API Design](https://github.com/lluciiiia/COSC2440_Further_Programming_Lab_Test.git)** [May 2024]
   - Description: COSC2440 Further Programming - Individual Test
   - Technologies Used: Java, Maven, JAR, JUnit, PostgreSQL with Supabase, JDBC
