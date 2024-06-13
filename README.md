@@ -62,7 +62,7 @@ Here are some of the projects I've worked on:
 - **[DayDay](https://github.com/lluciiiia/DayDay)**
 
   - Individual Project
-  - Description: Diary app
+  - Description: Diary app (Mobile application - Ionic)
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
