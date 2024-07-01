@@ -15,6 +15,18 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 Here are some of the projects I've worked on:
 
+- **[EcoMove](https://github.com/nguyentobinh12x5/ecomove-anglehack-hcm.git)**
+
+  - Role: Backend & Machine Learning Engineer - Developed a model & algorithm & whole backend system within 24 hours
+  - Description: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
+  - **_AngelHack HCMC '24 Grand Winner & 1st Prize in the Social Responsibility challenge._**
+  - Technologies Used:
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,mongo,nextjs,react,typescript,python" />
+      </a>
+    </p>
+
 - **[Genie](https://github.com/genie-hq/genie)**
 
   - Role: Fullstack Engineer - Specializing in Prompt Engineering and Backend Development
