@@ -17,9 +17,9 @@ Here are some of the projects I've worked on:
 
 - **[EcoMove](https://github.com/nguyentobinh12x5/ecomove-anglehack-hcm.git)**
 
+  - **_Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24._**
   - Role: Backend & Machine Learning Engineer - Developed a model & algorithm & whole backend system within 24 hours
   - Description: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
-  - **_Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24._**
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
@@ -96,9 +96,9 @@ Here are some of the projects I've worked on:
 ## Highlighted Courseworks 👩🏻‍🎓
 
 - **[Alien Shooting Game for Bare Metal OS](https://github.com/Mudoker/alien-shooting.git)** [May 2024]
+  - **_Selected as the top project in the course by the professor and chosen to have work showcased to RMIT's industry partner, Datalogic, as examples of excellence._**
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Group (4) Assignment
   - Technologies Used: C, Makefile, Assembly
-  - **_Selected as the top project in the course by the professor and chosen to have work showcased to RMIT's industry partner, Datalogic, as examples of excellence._**
 
 - **[Delivery Application - API Design](https://github.com/lluciiiia/COSC2440_Further_Programming_Lab_Test.git)** [May 2024]
   - Description: COSC2440 Further Programming - Individual Test
