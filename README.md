@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 
   - Role: Backend & Machine Learning Engineer - Developed a model & algorithm & whole backend system within 24 hours
   - Description: Community-driven mobile app designed to turn everyday actions into environmental impact, fostering a collaborative effort for a greener planet.
-  - **_AngelHack HCMC '24 Grand Winner & 1st Prize in the Social Responsibility challenge._**
+  - **_Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24._**
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
