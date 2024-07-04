@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,mongo,nextjs,react,typescript,js,python,googlecloud" />
+        <img src="https://skillicons.dev/icons?i=git,mongo,nextjs,react,typescript,js,python,googlecloud,aws" />
       </a>
     </p>
 
