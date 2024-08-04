@@ -15,6 +15,17 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 Here are some of the projects I've worked on:
 
+- **[SparkMind](https://github.com/lluciiiia/SparkMind)**
+
+  - Role: Team Leader (Fullstack & Prompt Engineer)
+  - Description: AI-powered study hub
+  - Technologies Used:
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,docker,supabase,nextjs,react,typescript,ai,googlecloud" />
+      </a>
+    </p>
+
 - **[EcoMove](https://github.com/nguyentobinh12x5/ecomove-anglehack-hcm.git)**
 
   - **_Grand Winner & 1st Prize in the Social Responsibility challenge project @ AngelHack HCMC '24._**
