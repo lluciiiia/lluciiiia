@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 - **[SparkMind](https://github.com/lluciiiia/SparkMind)**
 
   - Role: Team Leader (Fullstack & Prompt Engineer)
-  - Description: AI-powered study hub
+  - Description: AI-driven learning enhancement platform providing diverse input support, personalized study aids, refined notes, and comprehensive history.
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
