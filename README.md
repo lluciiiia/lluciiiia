@@ -4,7 +4,7 @@
 
 I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire to leverage technology for meaningful impact in society with a solid foundation of skills, a penchant for innovation, and a commitment to positive change.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lluciiiia&" alt="lluciiiia" /></p>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lluciiiia&" alt="lluciiiia" /></div>
 
 ## Education 📚
 
