@@ -108,6 +108,10 @@ Here are some of the projects I've worked on:
 
 ## Highlighted Courseworks 👩🏻‍🎓
 
+- **[BuZzNet - Social Media Platform](https://github.com/lluciiiia/COSC2769_Full_Stack_Development_Group_Assignment.git)** [Sep 2024]
+  - Description: COSC2769 Full Stack Development - Group Assignment
+  - Technologies Used: Vite React, Redux, Typescript, Node.js, MongoDB
+
 - **[Alien Shooting Game for Bare Metal OS](https://github.com/Mudoker/alien-shooting.git)** [May 2024]
   - **_Selected as the top project in the course by the professor and chosen to have work showcased to RMIT's industry partner, Datalogic, as examples of excellence._**
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Group (4) Assignment
