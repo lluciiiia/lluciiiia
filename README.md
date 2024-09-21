@@ -133,7 +133,7 @@ Here are some of the projects I've worked on:
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Individual Assessment
   - Technologies Used: C, Makefile, Assembly
 
-- **[Model Development For Diabetes Prediction](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)** [Apr 2024]
+- **[Diabetes Prediction Model](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)** [Apr 2024]
   - Description: COSC2753 Machine Learning - Individual Assignment
   - Technologies Used: Python
 
