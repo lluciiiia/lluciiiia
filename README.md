@@ -113,7 +113,7 @@ Here are some of the projects I've worked on:
   - Technologies Used: Vite React, Redux, Typescript, Node.js, MongoDB
 
 - **[Alien Shooting Game for Bare Metal OS](https://github.com/Mudoker/alien-shooting.git)** [May 2024]
-  - **_Selected as the top project in the course by the professor and chosen to have work showcased to RMIT's industry partner, Datalogic, as examples of excellence._**
+  - **_Selected as an example of excellence with the top embedded OS game in the course, showcased to RMIT's industry partners like Datalogic & junior students._**
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Group (4) Assignment
   - Technologies Used: C, Makefile, Assembly
 
