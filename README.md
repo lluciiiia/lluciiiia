@@ -121,7 +121,7 @@ Here are some of the projects I've worked on:
   - Description: COSC2440 Further Programming - Individual Test
   - Technologies Used: Java, Maven, JAR, JUnit, PostgreSQL with Supabase, JDBC
 
-- **[Model Development For Furniture Detection and Classification](https://github.com/Mudoker/furniture-recognition-model.git)** [May 2024]
+- **[Furniture Detection & Classification Model](https://github.com/Mudoker/furniture-recognition-model.git)** [May 2024]
   - Description: COSC2753 Machine Learning - Group (4) Assignment
   - Technologies Used: Python
   
