@@ -17,6 +17,17 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 Here are some of the projects I've worked on:
 
+- **[Medea](https://github.com/lluciiiia/Medea)**
+
+  - Role: Team Leader (Fullstack & Prompt Engineer)
+  - Description: All-in-One Media Production Platform
+  - Technologies Used:
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,supabase,nextjs,react,typescript,ai,googlecloud" />
+      </a>
+    </p>
+    
 - **[SparkMind](https://github.com/lluciiiia/SparkMind)**
 
   - Role: Team Leader (Fullstack & Prompt Engineer)
