@@ -17,6 +17,17 @@ I'm Seokyung Kim, though you can call me Lucia. I am driven by a profound desire
 
 Here are some of the projects I've worked on:
 
+- **[SkyNext](https://github.com/KCBF/NASA_skynext)**
+
+  - Role: Product Designer & Software Engineer
+  - Description: Interactive Orrery Solar System with storytelling from The Little Prince
+  - Technologies Used:
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c#" />
+      </a>
+    </p>
+    
 - **[Medea](https://github.com/lluciiiia/Medea)**
 
   - Role: Team Leader (Fullstack & Prompt Engineer)
