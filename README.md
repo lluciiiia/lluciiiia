@@ -128,7 +128,21 @@ Here are some of the projects I've worked on:
       </a>
     </p>
 
-## Highlighted Courseworks 👩🏻‍🎓
+## Machine Learning 🤖
+
+- **[Hotel Booking Prediction Model](https://github.com/lluciiiia/hotel_booking_prediction)** [Oct 2024]
+  - Description: EDA and Model Development Practice using Kaggle Data
+  - Technologies Used: Python
+    
+- **[Furniture Detection & Classification Model](https://github.com/Mudoker/furniture-recognition-model.git)** [May 2024]
+  - Description: COSC2753 Machine Learning - Group (4) Assignment
+  - Technologies Used: Python
+ 
+- **[Diabetes Prediction Model](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)** [Apr 2024]
+  - Description: COSC2753 Machine Learning - Individual Assignment
+  - Technologies Used: Python
+
+## Others 👩🏻‍🎓
 
 - **[BuZzNet - Social Media Platform](https://github.com/lluciiiia/COSC2769_Full_Stack_Development_Group_Assignment.git)** [Sep 2024]
   - Description: COSC2769 Full Stack Development - Group Assignment
@@ -142,10 +156,6 @@ Here are some of the projects I've worked on:
 - **[Delivery Application - API Design](https://github.com/lluciiiia/COSC2440_Further_Programming_Lab_Test.git)** [May 2024]
   - Description: COSC2440 Further Programming - Individual Test
   - Technologies Used: Java, Maven, JAR, JUnit, PostgreSQL with Supabase, JDBC
-
-- **[Furniture Detection & Classification Model](https://github.com/Mudoker/furniture-recognition-model.git)** [May 2024]
-  - Description: COSC2753 Machine Learning - Group (4) Assignment
-  - Technologies Used: Python
   
 - **[Insurance Claim Management System (v2)](https://github.com/lluciiiia/COSC2440_Further_Programming_A2.git)** [May 2024]
   - Description: COSC2440 Further Programming - Group (4) Assignment
@@ -154,10 +164,6 @@ Here are some of the projects I've worked on:
 - **[Bare Metal Operating System (OS) Development](https://github.com/lluciiiia/EEET2490_Embedded-Systems_Operating-System_Interfacing_A2.git)** [Apr 2024]
   - Description: EEET2490 Embedded Systems: Operating Systems & Interfacing - Individual Assessment
   - Technologies Used: C, Makefile, Assembly
-
-- **[Diabetes Prediction Model](https://github.com/lluciiiia/COSC2753---Machine-Learning---A1.git)** [Apr 2024]
-  - Description: COSC2753 Machine Learning - Individual Assignment
-  - Technologies Used: Python
 
 - **[Insurance Claim Management System (v1)](https://github.com/lluciiiia/Insurance-Claims-Management-System.git)** [Apr 2024]
   - Description: COSC2440 Further Programming - Individual Assignment
