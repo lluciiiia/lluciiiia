@@ -130,6 +130,10 @@ Here are some of the projects I've worked on:
 
 ## Machine Learning 🤖
 
+- **[Kaggle Housing Price Prediction Competition]([https://github.com/lluciiiia/hotel_booking_prediction](https://github.com/vutrongnhannguyen/HousePredictionSystem))** [Mar 2025]
+  - Description: EDA and Model Development Practice for Kaggle competition - **Top 2.86%**
+  - Technologies Used: Python
+
 - **[Hotel Booking Prediction Model](https://github.com/lluciiiia/hotel_booking_prediction)** [Oct 2024]
   - Description: EDA and Model Development Practice using Kaggle Data
   - Technologies Used: Python
