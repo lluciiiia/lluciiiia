@@ -119,8 +119,8 @@ Here are some of the projects I've worked on:
 
 - **[Xiang Qi](https://github.com/lluciiiia/DayDay)**
 
-  - Role: Team Leader
-  - Description: Chinese chess game
+  - Role: Main Developer
+  - Description: [Chinese chess game](https://www.facebook.com/100064486095185/posts/660936049399259/)
   - Technologies Used:
     <p align="center">
       <a href="https://skillicons.dev">
