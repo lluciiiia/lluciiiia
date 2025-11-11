@@ -88,45 +88,35 @@ Here are some of the projects I've worked on:
 
   - Role: Backend Leader
   - Description: Project management app
-  - Technologies Used:
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,mongo,nextjs,react,typescript,aws,redis,rabbitmq" />
-      </a>
-    </p>
+  - Technologies Used: Docker, MongoDB, Next.js, React, TypeScript, AWS, Redis, RabbitMQ
+  - Collaborated with 5 RMIT students to create a project management app, covering the entire project lifecycle for streamlined organization, deadline setting, and progress tracking with Next.js, Redis, MongoDB, and AWS S3.
+  - Developed a real-time chat feature leveraging Socket.io for an 80+ developer community within the NCT club.
+  - Developed a group video call functionality with WebRTC with a maximum capacity of 25 team members.
+  - Implemented a user state feature indicating online, offline status, and last online timestamp using a heartbeat mechanism.
+  - Integrated push notification functionality using RabbitMQ for message queuing and Firebase Cloud Messaging (FCM).
 
 - **[NCT Web Platform](https://github.com/RmitNeoculturetechclub/NCT_LandingPage_VPS)**
   
   - Role: Project Manager
   - Description: A centralized hub for club activities for Neo Culture Tech Club at RMIT
-  - Technologies Used:
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,expressjs,react,html,css,javascript,mongodb" />
-      </a>
-    </p>
-    
+  - Technologies Used: Docker, React, JavaScript, MongoDB
+  - Led a team of 7 developers to design and implement RMIT's Neo Culture Technology (NCT) club's web platform using Node.js, React (Next.js), MongoDB, and the MVC pattern.
+  - Automated 6 features (enrollment, email templates, chat support, newsletters, RSVPs, & reports), verifying 200+ RMIT students, reducing workload across 3 NCT departments (HR, finance, & marketing).
+  - Optimized operations by systematically organizing event, project, and member details within the implemented system.
+
 - **[DayDay](https://github.com/lluciiiia/DayDay)**
 
   - Individual Project
   - Description: Diary app (Mobile application - Ionic)
-  - Technologies Used:
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,googlecloud,expressjs,mysql,react,nodejs,typescript,ai" />
-      </a>
-    </p>
+  - Technologies Used: Google Cloud, MySql, React, Node.js, TypeScript
 
 - **[Xiang Qi](https://github.com/lluciiiia/DayDay)**
 
   - Role: Main Developer
-  - Description: [Chinese chess game](https://www.facebook.com/100064486095185/posts/660936049399259/)
-  - Technologies Used:
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,java,python,ai" />
-      </a>
-    </p>
+  - Description: Chinese chess game
+  - Technologies Used: Java, Python
+  - Led a team of 3 students in creating a Java and JavaFX game application that [engaged over 500 RMIT engineering students at a school project convention](https://www.facebook.com/100064486095185/posts/660936049399259/).
+  - Designed an interactive guidance system, providing insights into possible movements for each piece during gameplay, using advanced Object-Oriented Programming (OOP) principles.
 
 ## Machine Learning 🤖
 
